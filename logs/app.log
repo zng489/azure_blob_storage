@@ -1,0 +1,333 @@
+2024-09-26 21:01:39,758 - DEBUG - This is a debug message
+2024-09-26 21:01:39,761 - INFO - This is an info message
+2024-09-26 21:01:39,762 - WARNING - This is a warning message
+2024-09-26 21:01:39,762 - ERROR - This is an error message
+2024-09-26 21:01:39,762 - CRITICAL - This is a critical message
+2024-09-26 21:39:23,090 - DEBUG - This is a debug message
+2024-09-26 21:39:23,091 - INFO - This is an info message
+2024-09-26 21:39:23,092 - WARNING - This is a warning message
+2024-09-26 21:39:23,092 - ERROR - This is an error message
+2024-09-26 21:39:23,092 - CRITICAL - This is a critical message
+2024-09-26 21:39:23,097 - INFO - Request URL: 'https://onipublicdata.blob.core.windows.net/public?restype=REDACTED&comp=REDACTED'
+Request method: 'GET'
+Request headers:
+    'x-ms-version': 'REDACTED'
+    'Accept': 'application/xml'
+    'User-Agent': 'azsdk-python-storage-blob/12.23.1 Python/3.11.9 (Windows-10-10.0.19045-SP0)'
+    'x-ms-date': 'REDACTED'
+    'x-ms-client-request-id': 'f0d8c5dd-7c68-11ef-b2fc-2016b99c1efd'
+    'Authorization': 'REDACTED'
+No body was attached to the request
+2024-09-26 21:39:23,101 - DEBUG - Starting new HTTPS connection (1): onipublicdata.blob.core.windows.net:443
+2024-09-26 21:39:23,855 - DEBUG - https://onipublicdata.blob.core.windows.net:443 "GET /public?restype=container&comp=list HTTP/11" 200 None
+2024-09-26 21:39:24,031 - INFO - Response status: 200
+Response headers:
+    'Transfer-Encoding': 'chunked'
+    'Content-Type': 'application/xml'
+    'Server': 'Windows-Azure-Blob/1.0 Microsoft-HTTPAPI/2.0'
+    'x-ms-request-id': 'da6dedaf-d01e-001f-0175-101f39000000'
+    'x-ms-client-request-id': 'f0d8c5dd-7c68-11ef-b2fc-2016b99c1efd'
+    'x-ms-version': 'REDACTED'
+    'Date': 'Fri, 27 Sep 2024 00:39:22 GMT'
+2024-09-27 06:39:32,978 - DEBUG - This is a debug message
+2024-09-27 06:39:32,979 - INFO - This is an info message
+2024-09-27 06:39:32,980 - WARNING - This is a warning message
+2024-09-27 06:39:32,980 - ERROR - This is an error message
+2024-09-27 06:39:32,980 - CRITICAL - This is a critical message
+2024-09-27 06:40:17,444 - DEBUG - This is a debug message
+2024-09-27 06:40:17,444 - INFO - This is an info message
+2024-09-27 06:40:17,444 - WARNING - This is a warning message
+2024-09-27 06:40:17,445 - ERROR - This is an error message
+2024-09-27 06:40:17,445 - CRITICAL - This is a critical message
+2024-09-27 06:40:17,455 - INFO - Request URL: 'https://onipublicdata.blob.core.windows.net/public?restype=REDACTED&comp=REDACTED'
+Request method: 'GET'
+Request headers:
+    'x-ms-version': 'REDACTED'
+    'Accept': 'application/xml'
+    'User-Agent': 'azsdk-python-storage-blob/12.23.1 Python/3.11.9 (Windows-10-10.0.19045-SP0)'
+    'x-ms-date': 'REDACTED'
+    'x-ms-client-request-id': '8126c67b-7cb4-11ef-a533-2016b99c1efd'
+    'Authorization': 'REDACTED'
+No body was attached to the request
+2024-09-27 06:40:17,464 - DEBUG - Starting new HTTPS connection (1): onipublicdata.blob.core.windows.net:443
+2024-09-27 06:40:18,169 - DEBUG - https://onipublicdata.blob.core.windows.net:443 "GET /public?restype=container&comp=list HTTP/11" 200 None
+2024-09-27 06:40:18,301 - INFO - Response status: 200
+Response headers:
+    'Transfer-Encoding': 'chunked'
+    'Content-Type': 'application/xml'
+    'Server': 'Windows-Azure-Blob/1.0 Microsoft-HTTPAPI/2.0'
+    'x-ms-request-id': 'a0dd09f0-b01e-0019-76c1-102c86000000'
+    'x-ms-client-request-id': '8126c67b-7cb4-11ef-a533-2016b99c1efd'
+    'x-ms-version': 'REDACTED'
+    'Date': 'Fri, 27 Sep 2024 09:40:16 GMT'
+2024-09-27 06:42:43,713 - INFO - Request URL: 'https://onipublicdata.blob.core.windows.net/public?restype=REDACTED&comp=REDACTED'
+Request method: 'GET'
+Request headers:
+    'x-ms-version': 'REDACTED'
+    'Accept': 'application/xml'
+    'User-Agent': 'azsdk-python-storage-blob/12.23.1 Python/3.11.9 (Windows-10-10.0.19045-SP0)'
+    'x-ms-date': 'REDACTED'
+    'x-ms-client-request-id': 'd8544c5e-7cb4-11ef-bff3-2016b99c1efd'
+    'Authorization': 'REDACTED'
+No body was attached to the request
+2024-09-27 06:42:43,715 - DEBUG - Starting new HTTPS connection (1): onipublicdata.blob.core.windows.net:443
+2024-09-27 06:42:44,363 - DEBUG - https://onipublicdata.blob.core.windows.net:443 "GET /public?restype=container&comp=list HTTP/11" 200 None
+2024-09-27 06:42:44,506 - INFO - Response status: 200
+Response headers:
+    'Transfer-Encoding': 'chunked'
+    'Content-Type': 'application/xml'
+    'Server': 'Windows-Azure-Blob/1.0 Microsoft-HTTPAPI/2.0'
+    'x-ms-request-id': '8194d432-d01e-0030-0ac1-1012f2000000'
+    'x-ms-client-request-id': 'd8544c5e-7cb4-11ef-bff3-2016b99c1efd'
+    'x-ms-version': 'REDACTED'
+    'Date': 'Fri, 27 Sep 2024 09:42:42 GMT'
+2024-09-27 06:45:00,800 - INFO - Request URL: 'https://onipublicdata.blob.core.windows.net/public?restype=REDACTED&comp=REDACTED'
+Request method: 'GET'
+Request headers:
+    'x-ms-version': 'REDACTED'
+    'Accept': 'application/xml'
+    'User-Agent': 'azsdk-python-storage-blob/12.23.1 Python/3.11.9 (Windows-10-10.0.19045-SP0)'
+    'x-ms-date': 'REDACTED'
+    'x-ms-client-request-id': '2a0a20c5-7cb5-11ef-bc97-2016b99c1efd'
+    'Authorization': 'REDACTED'
+No body was attached to the request
+2024-09-27 06:45:00,802 - DEBUG - Starting new HTTPS connection (1): onipublicdata.blob.core.windows.net:443
+2024-09-27 06:45:01,444 - DEBUG - https://onipublicdata.blob.core.windows.net:443 "GET /public?restype=container&comp=list HTTP/11" 200 None
+2024-09-27 06:45:01,584 - INFO - Response status: 200
+Response headers:
+    'Transfer-Encoding': 'chunked'
+    'Content-Type': 'application/xml'
+    'Server': 'Windows-Azure-Blob/1.0 Microsoft-HTTPAPI/2.0'
+    'x-ms-request-id': '5991f97a-501e-004c-7ac1-103c0d000000'
+    'x-ms-client-request-id': '2a0a20c5-7cb5-11ef-bc97-2016b99c1efd'
+    'x-ms-version': 'REDACTED'
+    'Date': 'Fri, 27 Sep 2024 09:44:59 GMT'
+2024-09-27 06:45:01,628 - INFO - Request URL: 'https://onipublicdata.blob.core.windows.net/public/public'
+Request method: 'PUT'
+Request headers:
+    'Content-Length': '5924'
+    'x-ms-blob-type': 'REDACTED'
+    'If-None-Match': '*'
+    'x-ms-version': 'REDACTED'
+    'Content-Type': 'application/octet-stream'
+    'Accept': 'application/xml'
+    'User-Agent': 'azsdk-python-storage-blob/12.23.1 Python/3.11.9 (Windows-10-10.0.19045-SP0)'
+    'x-ms-date': 'REDACTED'
+    'x-ms-client-request-id': '2a884325-7cb5-11ef-9508-2016b99c1efd'
+    'Authorization': 'REDACTED'
+A body is sent with the request
+2024-09-27 06:45:01,629 - DEBUG - Starting new HTTPS connection (1): onipublicdata.blob.core.windows.net:443
+2024-09-27 06:45:02,262 - DEBUG - https://onipublicdata.blob.core.windows.net:443 "PUT /public/public HTTP/11" 201 0
+2024-09-27 06:45:02,266 - INFO - Response status: 201
+Response headers:
+    'Content-Length': '0'
+    'Content-MD5': 'REDACTED'
+    'Last-Modified': 'Fri, 27 Sep 2024 09:45:00 GMT'
+    'ETag': '"0x8DCDED90E262C0C"'
+    'Server': 'Windows-Azure-Blob/1.0 Microsoft-HTTPAPI/2.0'
+    'x-ms-request-id': 'cf8e6cf6-501e-005c-70c1-10f965000000'
+    'x-ms-client-request-id': '2a884325-7cb5-11ef-9508-2016b99c1efd'
+    'x-ms-version': 'REDACTED'
+    'x-ms-content-crc64': 'REDACTED'
+    'x-ms-request-server-encrypted': 'REDACTED'
+    'Date': 'Fri, 27 Sep 2024 09:45:00 GMT'
+2024-09-27 06:45:13,993 - INFO - Request URL: 'https://onipublicdata.blob.core.windows.net/public?restype=REDACTED&comp=REDACTED'
+Request method: 'GET'
+Request headers:
+    'x-ms-version': 'REDACTED'
+    'Accept': 'application/xml'
+    'User-Agent': 'azsdk-python-storage-blob/12.23.1 Python/3.11.9 (Windows-10-10.0.19045-SP0)'
+    'x-ms-date': 'REDACTED'
+    'x-ms-client-request-id': '31e73829-7cb5-11ef-83d6-2016b99c1efd'
+    'Authorization': 'REDACTED'
+No body was attached to the request
+2024-09-27 06:45:13,996 - DEBUG - Starting new HTTPS connection (1): onipublicdata.blob.core.windows.net:443
+2024-09-27 06:45:14,640 - DEBUG - https://onipublicdata.blob.core.windows.net:443 "GET /public?restype=container&comp=list HTTP/11" 200 None
+2024-09-27 06:45:14,781 - INFO - Response status: 200
+Response headers:
+    'Transfer-Encoding': 'chunked'
+    'Content-Type': 'application/xml'
+    'Server': 'Windows-Azure-Blob/1.0 Microsoft-HTTPAPI/2.0'
+    'x-ms-request-id': 'a899420d-701e-0039-24c1-105721000000'
+    'x-ms-client-request-id': '31e73829-7cb5-11ef-83d6-2016b99c1efd'
+    'x-ms-version': 'REDACTED'
+    'Date': 'Fri, 27 Sep 2024 09:45:12 GMT'
+2024-09-27 06:55:35,216 - INFO - Request URL: 'https://onipublicdata.blob.core.windows.net/public?restype=REDACTED&comp=REDACTED'
+Request method: 'GET'
+Request headers:
+    'x-ms-version': 'REDACTED'
+    'Accept': 'application/xml'
+    'User-Agent': 'azsdk-python-storage-blob/12.23.1 Python/3.11.9 (Windows-10-10.0.19045-SP0)'
+    'x-ms-date': 'REDACTED'
+    'x-ms-client-request-id': 'a42e61e2-7cb6-11ef-9978-2016b99c1efd'
+    'Authorization': 'REDACTED'
+No body was attached to the request
+2024-09-27 06:55:35,219 - DEBUG - Starting new HTTPS connection (1): onipublicdata.blob.core.windows.net:443
+2024-09-27 06:55:35,909 - DEBUG - https://onipublicdata.blob.core.windows.net:443 "GET /public?restype=container&comp=list HTTP/11" 200 None
+2024-09-27 06:55:36,052 - INFO - Response status: 200
+Response headers:
+    'Transfer-Encoding': 'chunked'
+    'Content-Type': 'application/xml'
+    'Server': 'Windows-Azure-Blob/1.0 Microsoft-HTTPAPI/2.0'
+    'x-ms-request-id': '11558263-a01e-0058-6dc3-107462000000'
+    'x-ms-client-request-id': 'a42e61e2-7cb6-11ef-9978-2016b99c1efd'
+    'x-ms-version': 'REDACTED'
+    'Date': 'Fri, 27 Sep 2024 09:55:34 GMT'
+2024-09-27 06:55:36,064 - INFO - Request URL: 'https://onipublicdata.blob.core.windows.net/public/public'
+Request method: 'DELETE'
+Request headers:
+    'x-ms-version': 'REDACTED'
+    'Accept': 'application/xml'
+    'User-Agent': 'azsdk-python-storage-blob/12.23.1 Python/3.11.9 (Windows-10-10.0.19045-SP0)'
+    'x-ms-date': 'REDACTED'
+    'x-ms-client-request-id': 'a4af9cd2-7cb6-11ef-95a0-2016b99c1efd'
+    'Authorization': 'REDACTED'
+No body was attached to the request
+2024-09-27 06:55:36,065 - DEBUG - Starting new HTTPS connection (1): onipublicdata.blob.core.windows.net:443
+2024-09-27 06:55:36,679 - DEBUG - https://onipublicdata.blob.core.windows.net:443 "DELETE /public/public HTTP/11" 202 0
+2024-09-27 06:55:36,680 - INFO - Response status: 202
+Response headers:
+    'Content-Length': '0'
+    'Server': 'Windows-Azure-Blob/1.0 Microsoft-HTTPAPI/2.0'
+    'x-ms-request-id': 'b5996d48-901e-001e-56c3-1040e5000000'
+    'x-ms-client-request-id': 'a4af9cd2-7cb6-11ef-95a0-2016b99c1efd'
+    'x-ms-version': 'REDACTED'
+    'x-ms-delete-type-permanent': 'REDACTED'
+    'Date': 'Fri, 27 Sep 2024 09:55:34 GMT'
+2024-09-27 06:55:43,118 - INFO - Request URL: 'https://onipublicdata.blob.core.windows.net/public?restype=REDACTED&comp=REDACTED'
+Request method: 'GET'
+Request headers:
+    'x-ms-version': 'REDACTED'
+    'Accept': 'application/xml'
+    'User-Agent': 'azsdk-python-storage-blob/12.23.1 Python/3.11.9 (Windows-10-10.0.19045-SP0)'
+    'x-ms-date': 'REDACTED'
+    'x-ms-client-request-id': 'a8e3e12d-7cb6-11ef-8910-2016b99c1efd'
+    'Authorization': 'REDACTED'
+No body was attached to the request
+2024-09-27 06:55:43,120 - DEBUG - Starting new HTTPS connection (1): onipublicdata.blob.core.windows.net:443
+2024-09-27 06:55:43,754 - DEBUG - https://onipublicdata.blob.core.windows.net:443 "GET /public?restype=container&comp=list HTTP/11" 200 None
+2024-09-27 06:55:43,894 - INFO - Response status: 200
+Response headers:
+    'Transfer-Encoding': 'chunked'
+    'Content-Type': 'application/xml'
+    'Server': 'Windows-Azure-Blob/1.0 Microsoft-HTTPAPI/2.0'
+    'x-ms-request-id': '2633fe1d-401e-0040-52c3-10ab05000000'
+    'x-ms-client-request-id': 'a8e3e12d-7cb6-11ef-8910-2016b99c1efd'
+    'x-ms-version': 'REDACTED'
+    'Date': 'Fri, 27 Sep 2024 09:55:41 GMT'
+2024-09-27 06:58:48,479 - INFO - Request URL: 'https://onipublicdata.blob.core.windows.net/public?restype=REDACTED&comp=REDACTED'
+Request method: 'GET'
+Request headers:
+    'x-ms-version': 'REDACTED'
+    'Accept': 'application/xml'
+    'User-Agent': 'azsdk-python-storage-blob/12.23.1 Python/3.11.9 (Windows-10-10.0.19045-SP0)'
+    'x-ms-date': 'REDACTED'
+    'x-ms-client-request-id': '175f774a-7cb7-11ef-ae11-2016b99c1efd'
+    'Authorization': 'REDACTED'
+No body was attached to the request
+2024-09-27 06:58:48,481 - DEBUG - Starting new HTTPS connection (1): onipublicdata.blob.core.windows.net:443
+2024-09-27 06:58:49,148 - DEBUG - https://onipublicdata.blob.core.windows.net:443 "GET /public?restype=container&comp=list HTTP/11" 200 None
+2024-09-27 06:58:49,288 - INFO - Response status: 200
+Response headers:
+    'Transfer-Encoding': 'chunked'
+    'Content-Type': 'application/xml'
+    'Server': 'Windows-Azure-Blob/1.0 Microsoft-HTTPAPI/2.0'
+    'x-ms-request-id': 'be81360e-401e-0050-5bc3-106e6d000000'
+    'x-ms-client-request-id': '175f774a-7cb7-11ef-ae11-2016b99c1efd'
+    'x-ms-version': 'REDACTED'
+    'Date': 'Fri, 27 Sep 2024 09:58:46 GMT'
+2024-09-27 06:58:49,322 - INFO - Request URL: 'https://onipublicdata.blob.core.windows.net/public/./get/public'
+Request method: 'PUT'
+Request headers:
+    'Content-Length': '13181'
+    'x-ms-blob-type': 'REDACTED'
+    'If-None-Match': '*'
+    'x-ms-version': 'REDACTED'
+    'Content-Type': 'application/octet-stream'
+    'Accept': 'application/xml'
+    'User-Agent': 'azsdk-python-storage-blob/12.23.1 Python/3.11.9 (Windows-10-10.0.19045-SP0)'
+    'x-ms-date': 'REDACTED'
+    'x-ms-client-request-id': '17e06e0b-7cb7-11ef-9334-2016b99c1efd'
+    'Authorization': 'REDACTED'
+A body is sent with the request
+2024-09-27 06:58:49,323 - DEBUG - Starting new HTTPS connection (1): onipublicdata.blob.core.windows.net:443
+2024-09-27 06:58:49,917 - DEBUG - https://onipublicdata.blob.core.windows.net:443 "PUT /public/get/public HTTP/11" 403 776
+2024-09-27 06:58:49,918 - INFO - Response status: 403
+Response headers:
+    'Content-Length': '776'
+    'Content-Type': 'application/xml'
+    'Server': 'Microsoft-HTTPAPI/2.0'
+    'x-ms-request-id': '6e6f270b-d01e-0052-34c3-10d0d5000000'
+    'x-ms-error-code': 'AuthenticationFailed'
+    'Date': 'Fri, 27 Sep 2024 09:58:47 GMT'
+2024-09-27 06:58:56,400 - INFO - Request URL: 'https://onipublicdata.blob.core.windows.net/public?restype=REDACTED&comp=REDACTED'
+Request method: 'GET'
+Request headers:
+    'x-ms-version': 'REDACTED'
+    'Accept': 'application/xml'
+    'User-Agent': 'azsdk-python-storage-blob/12.23.1 Python/3.11.9 (Windows-10-10.0.19045-SP0)'
+    'x-ms-date': 'REDACTED'
+    'x-ms-client-request-id': '1c1875b9-7cb7-11ef-a49e-2016b99c1efd'
+    'Authorization': 'REDACTED'
+No body was attached to the request
+2024-09-27 06:58:56,401 - DEBUG - Starting new HTTPS connection (1): onipublicdata.blob.core.windows.net:443
+2024-09-27 06:58:57,195 - DEBUG - https://onipublicdata.blob.core.windows.net:443 "GET /public?restype=container&comp=list HTTP/11" 200 None
+2024-09-27 06:58:57,340 - INFO - Response status: 200
+Response headers:
+    'Transfer-Encoding': 'chunked'
+    'Content-Type': 'application/xml'
+    'Server': 'Windows-Azure-Blob/1.0 Microsoft-HTTPAPI/2.0'
+    'x-ms-request-id': '8d5dd6f0-c01e-005e-5dc3-1047dd000000'
+    'x-ms-client-request-id': '1c1875b9-7cb7-11ef-a49e-2016b99c1efd'
+    'x-ms-version': 'REDACTED'
+    'Date': 'Fri, 27 Sep 2024 09:58:55 GMT'
+2024-09-27 06:58:57,374 - INFO - Request URL: 'https://onipublicdata.blob.core.windows.net/public//get/public'
+Request method: 'PUT'
+Request headers:
+    'Content-Length': '15547'
+    'x-ms-blob-type': 'REDACTED'
+    'If-None-Match': '*'
+    'x-ms-version': 'REDACTED'
+    'Content-Type': 'application/octet-stream'
+    'Accept': 'application/xml'
+    'User-Agent': 'azsdk-python-storage-blob/12.23.1 Python/3.11.9 (Windows-10-10.0.19045-SP0)'
+    'x-ms-date': 'REDACTED'
+    'x-ms-client-request-id': '1cad1a6d-7cb7-11ef-a43d-2016b99c1efd'
+    'Authorization': 'REDACTED'
+A body is sent with the request
+2024-09-27 06:58:57,377 - DEBUG - Starting new HTTPS connection (1): onipublicdata.blob.core.windows.net:443
+2024-09-27 06:58:58,139 - DEBUG - https://onipublicdata.blob.core.windows.net:443 "PUT /public//get/public HTTP/11" 201 0
+2024-09-27 06:58:58,140 - INFO - Response status: 201
+Response headers:
+    'Content-Length': '0'
+    'Content-MD5': 'REDACTED'
+    'Last-Modified': 'Fri, 27 Sep 2024 09:58:56 GMT'
+    'ETag': '"0x8DCDEDB005EEB5A"'
+    'Server': 'Windows-Azure-Blob/1.0 Microsoft-HTTPAPI/2.0'
+    'x-ms-request-id': 'b59ba84b-901e-001e-35c3-1040e5000000'
+    'x-ms-client-request-id': '1cad1a6d-7cb7-11ef-a43d-2016b99c1efd'
+    'x-ms-version': 'REDACTED'
+    'x-ms-content-crc64': 'REDACTED'
+    'x-ms-request-server-encrypted': 'REDACTED'
+    'Date': 'Fri, 27 Sep 2024 09:58:55 GMT'
+2024-09-27 06:59:05,108 - INFO - Request URL: 'https://onipublicdata.blob.core.windows.net/public?restype=REDACTED&comp=REDACTED'
+Request method: 'GET'
+Request headers:
+    'x-ms-version': 'REDACTED'
+    'Accept': 'application/xml'
+    'User-Agent': 'azsdk-python-storage-blob/12.23.1 Python/3.11.9 (Windows-10-10.0.19045-SP0)'
+    'x-ms-date': 'REDACTED'
+    'x-ms-client-request-id': '21493c85-7cb7-11ef-9230-2016b99c1efd'
+    'Authorization': 'REDACTED'
+No body was attached to the request
+2024-09-27 06:59:05,110 - DEBUG - Starting new HTTPS connection (1): onipublicdata.blob.core.windows.net:443
+2024-09-27 06:59:05,718 - DEBUG - https://onipublicdata.blob.core.windows.net:443 "GET /public?restype=container&comp=list HTTP/11" 200 None
+2024-09-27 06:59:05,859 - INFO - Response status: 200
+Response headers:
+    'Transfer-Encoding': 'chunked'
+    'Content-Type': 'application/xml'
+    'Server': 'Windows-Azure-Blob/1.0 Microsoft-HTTPAPI/2.0'
+    'x-ms-request-id': 'd7be1f17-701e-0074-01c3-1098cd000000'
+    'x-ms-client-request-id': '21493c85-7cb7-11ef-9230-2016b99c1efd'
+    'x-ms-version': 'REDACTED'
+    'Date': 'Fri, 27 Sep 2024 09:59:03 GMT'
